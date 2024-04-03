@@ -5,6 +5,9 @@
   "repository": "https://github.com/mv23c/API-vendas.git",
   "author": "mv23c <100789090+mv23c@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/server.ts"
+  },
   "devDependencies": {
     "@types/node": "^20.12.2",
     "ts-node-dev": "^2.0.0",
