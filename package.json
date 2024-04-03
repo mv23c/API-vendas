@@ -1,0 +1,14 @@
+{
+  "name": "API-vendas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mv23c/API-vendas.git",
+  "author": "mv23c <100789090+mv23c@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.2",
+    "ts-node-dev": "^2.0.0",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.4.3"
+  }
+}
